@@ -1,0 +1,59 @@
+h1 {
+    color: blue;
+    background-color: yellow;
+    text-align: center;
+}
+
+p {
+    color: red;
+}
+
+p, li {
+    text-decoration: underline;
+}
+
+/* Práctica 2*/
+#p1{font-size: 40px;}
+#p2{font-size: small;}
+#p3{font-size: medium;}
+#p4{font-size: large;}
+#p5{font-size: xx-large;}
+#p6{font-size: xx-small;}
+#p7{font-size: 2%;}
+#p8{font-size: 20%;}
+#p9{font-size: 80%;}
+#p10{font-size: 200%;}
+#p11{font-size: 300%;}
+
+/* Práctica 3*/
+#hr1{size:5; width:50%;}
+#hr2{size:25; width:50;}
+#hr3{width: 75%; height: 10px; background-color: rgb(0,0,255); margin-left:0pt;}
+#hr4{border-width: 10px; width:60%; height: 10px; color: rgb(0,255,0); background-color: rgb(255,0,0); margin-left:0pt;}
+
+/* Práctica 4 */
+#p12{color: black;font-weight: bold; font-size: xx-large;}
+#p13{color: white;font-weight: bold; font-size: xx-large;}
+#p14{color: red;font-weight: bold; font-size: xx-large;}
+#p15{color: lime;font-weight: bold; font-size: xx-large;}
+#p16{color: blue;font-weight: bold; font-size: xx-large;}
+#p17{color: yellow;font-weight: bold; font-size: xx-large;}
+#p18{color: fuchsia;font-weight: bold; font-size: xx-large;}
+
+.table1{text-align:left; width:100%; margin-left:auto; margin-right: auto;}
+.th1{vertical-align:top; background-color: rgb(153,255,153);}
+.span1{font-weight: bold;}
+.span2{font-weight:bold;}
+.td1{vertical-align: middle; text-align: left; background-color: rgb(102, 255, 255);}
+.td2{vertical-align: top; text-align: center; color: red;}
+.td3{vertical-align: top; text-align: center;}
+.td4{vertical-align: top; text-align: center; color:red;}
+.td5{vertical-align: bottom; text-align: right; background-color:rgb(255,153,255);}
+.td6{vertical-align: top; text-align: center;}
+.td7{vertical-align: top; text-align: center; color:red;}
+.span3{font-weight: bold;}
+.span4{font-weight: bold;}
+.span5{font-weight: bold;}
+.span6{font-weight: bold;}
+.span7{font-weight: bold;}
+.span8{font-weight: bold;}
